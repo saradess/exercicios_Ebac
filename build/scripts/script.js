@@ -1,0 +1,1 @@
+function greet(o){console.log("Hello, "+o+"!")}function add(o,l){return o+l}function multiply(o,l){return o*l}greet("World"),console.log("2 + 3 = "+add(2,3)),console.log("2 * 3 = "+multiply(2,3));
