@@ -32,10 +32,10 @@ $corDestaque: #ffff42;
     &__descricao{
         color:$corDescricao;
     }
-}
 
-.produto--destaque{
-    border: 2px solid gold;
-    padding: 8px;
-    background-color: $corDestaque;
+    &--destaque{
+        border: 2px solid gold;
+        padding: 8px;
+        background-color: $corDestaque;
+    }
 }
